@@ -1,4 +1,8 @@
-# GUIA COMPLETO PARA INICIANTES NO LINUX DEBIAN
+# 🐧 - GUIA COMPLETO PARA INICIANTES NO LINUX DEBIAN
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-D1094E?style=for-the-badge&logo=debian&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 Comandos, conceitos do sistema, administração básica e rotinas práticas.
 
